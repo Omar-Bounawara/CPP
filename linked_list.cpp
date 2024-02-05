@@ -1,7 +1,7 @@
 /*
 Author: Omar-Bounawara
 
---------linked lsit implimentation---------
+--------linked list implimentation---------
 
 overview:
 
